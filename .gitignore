@@ -9,5 +9,5 @@ features.parquet
 *.log
 *.zip
 *.csv
-*.md
+*slides.md
 
