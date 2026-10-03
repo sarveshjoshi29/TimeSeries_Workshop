@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+book_test.parquet/
+book_train.parquet/
+trade_test.parquet/
+trade_train.parquet/
+features_cache/
+features.parquet
+*.log
+*.zip
+*.csv
+*.md
+
